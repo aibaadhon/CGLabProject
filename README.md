@@ -1,4 +1,4 @@
-# CGLabProject
+# Ambulance Driving
 Computer Graphics Labrotaory FINAL Project
 
 This is a 2D game project using OpenGL library. Where gamer will have to drive an ambulance to the nearest hospital with a patient in it. 
